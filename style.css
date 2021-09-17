@@ -1,0 +1,57 @@
+body{
+	/*background-image: url("SoccerField.png");*/
+	background-color: #4c8527;
+	background-size: cover;
+	font-family: "Comic Sans MS";
+}
+
+img{
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	background-size: fit;
+	background-position: center;
+}
+
+span {
+	width: fit-content;
+	text-align: center;
+
+}
+
+#info, #cited{
+	margin-top: 40px 150px;
+	text-align: center;
+	width: fit-content;
+
+}
+
+#info > p, h1 {
+	text-align: center;
+}
+
+#summary, #list, #quote, #bibliography, #home, #sources{
+	margin: 40px 150px;
+}
+
+#describe{
+	margin-top: 40px;
+	text-align: center;
+	font-size: 16px;
+
+}
+
+#describe > b > span{
+	margin: 10vw;
+	
+}
+
+#quote > p {
+	text-align: right;
+}
+
+#bibliography, #home {
+	text-align: center;
+}
+
+
