@@ -1,9 +1,10 @@
 body{
-	/*background-image: url("SoccerField.png");*/
-	background-color: #4c8527;
+	background-image: url("SoccerField.png");
+	/*background-color: green*/
 	background-size: cover;
 	font-family: "Comic Sans MS";
 }
+
 
 img{
 	border-radius: 50%;
@@ -16,6 +17,10 @@ img{
 span {
 	width: fit-content;
 	text-align: center;
+
+}
+
+.review{
 
 }
 
